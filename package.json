@@ -1,0 +1,15 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "No desc",
+  "repository": "https://github.com/KichiFinn/check-lerna-publish.git",
+  "author": "HT",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "lerna": "^3.22.1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "nuxt-html-validate",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/KichiFinn/check-lerna-publish.git",
+    "directory": "packages/nuxt-html-validate"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "ht",
+  "license": "MIT"
+}
