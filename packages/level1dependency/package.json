@@ -1,10 +1,10 @@
 {
   "name": "@KichiFinn/level1dependency",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "no",
   "main": "index.js",
   "dependencies": {
-    "@KichiFinn/level2dependency": "^1.0.9"
+    "@KichiFinn/level2dependency": "^1.0.10"
   },
   "repository": {
     "type": "git",
