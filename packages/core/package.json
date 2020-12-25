@@ -1,0 +1,16 @@
+{
+  "name": "@KichiFinn/core",
+  "version": "1.0.22",
+  "description": "no",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/KichiFinn/check-lerna-publish.git",
+    "directory": "packages/core"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@KichiFinn"
+  },
+  "author": "ht",
+  "license": "MIT"
+}

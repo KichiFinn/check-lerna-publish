@@ -1,0 +1,16 @@
+{
+  "name": "@KichiFinn/level1dependency",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/KichiFinn/check-lerna-publish.git",
+    "directory": "packages/level1dependency"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@KichiFinn"
+  },
+  "author": "ht",
+  "license": "MIT"
+}
