@@ -9,7 +9,7 @@
     "directory": "packages/nuxt-html-validate"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com@kichifinn"
   },
   "author": "ht",
   "license": "MIT",
