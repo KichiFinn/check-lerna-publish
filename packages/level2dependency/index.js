@@ -1,3 +1,3 @@
 export function level2Func() {
-  console.log("Hello from level2Func update 4");
+  console.log("Hello from level2Func update 5");
 }
