@@ -3,6 +3,9 @@
   "version": "1.0.6",
   "description": "no",
   "main": "index.js",
+  "dependencies": {
+    "@KichiFinn/level2dependency": "^1.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com/KichiFinn/check-lerna-publish.git",
