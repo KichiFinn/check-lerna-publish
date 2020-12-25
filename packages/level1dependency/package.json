@@ -1,6 +1,6 @@
 {
   "name": "@KichiFinn/level1dependency",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "no",
   "main": "index.js",
   "repository": {
@@ -13,5 +13,5 @@
   },
   "author": "ht",
   "license": "MIT",
-  "gitHead": "ad872414cd8fabbbcffdd9936b4a84604690a08c"
+  "gitHead": "a3f4688aaf862a7e1ca2bae01fce52e495574443"
 }
