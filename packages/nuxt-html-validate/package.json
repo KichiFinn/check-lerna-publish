@@ -1,6 +1,6 @@
 {
   "name": "nuxt-html-validate",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "no",
   "main": "index.js",
   "repository": {
@@ -9,9 +9,9 @@
     "directory": "packages/nuxt-html-validate"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@KichiFinn"
+    "registry": "https://npm.pkg.github.com"
   },
   "author": "ht",
   "license": "MIT",
-  "gitHead": "1881bedd7e7a4b1a3a1aaf28f60b0d562d0ad4d9"
+  "gitHead": "0d03599136456e1f2e017cdea6feed49e074fee4"
 }
