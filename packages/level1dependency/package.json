@@ -1,6 +1,6 @@
 {
   "name": "@KichiFinn/level1dependency",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "no",
   "main": "index.js",
   "repository": {
@@ -12,5 +12,6 @@
     "registry": "https://npm.pkg.github.com/@KichiFinn"
   },
   "author": "ht",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "6936d9dc994cc980049487404d9eea9293e3cc7c"
 }
