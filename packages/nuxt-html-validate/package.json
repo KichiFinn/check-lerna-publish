@@ -1,6 +1,6 @@
 {
   "name": "nuxt-html-validate",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "no",
   "main": "index.js",
   "repository": {
@@ -13,5 +13,5 @@
   },
   "author": "ht",
   "license": "MIT",
-  "gitHead": "773c1ff74a31cf751a360ece7a50d36e845644cc"
+  "gitHead": "4c2b97b6caec8ad660ebd4f4f324e7d32739b704"
 }
