@@ -5,7 +5,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [1.0.6](https://github.com/KichiFinn/check-lerna-publish/compare/@KichiFinn/core@1.0.5...@KichiFinn/core@1.0.6) (2020-12-25)
 
-**Note:** Version bump only for package @KichiFinn/core
+**Note:** Version bump only for package @KichiFinn/cored
 
 
 
