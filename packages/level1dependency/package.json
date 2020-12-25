@@ -2,6 +2,7 @@
   "name": "@KichiFinn/level1dependency",
   "version": "1.0.12",
   "description": "no",
+  "type": "module",
   "main": "index.js",
   "dependencies": {
     "@KichiFinn/level2dependency": "^1.0.11"
