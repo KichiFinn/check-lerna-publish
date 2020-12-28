@@ -5,7 +5,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [1.0.16](https://github.com/KichiFinn/check-lerna-publish/compare/@KichiFinn/level2dependency@1.0.15...@KichiFinn/level2dependency@1.0.16) (2020-12-28)
 
-**Note:** Version bump only for package @KichiFinn/level2dependency
+**Note:** Version bump only for package @KichiFinn/level2dependency s
 
 
 
