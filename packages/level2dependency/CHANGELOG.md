@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.14](https://github.com/KichiFinn/check-lerna-publish/compare/@KichiFinn/level2dependency@1.0.13...@KichiFinn/level2dependency@1.0.14) (2020-12-28)
+
+**Note:** Version bump only for package @KichiFinn/level2dependency
+
+
+
+
+
 ## [1.0.13](https://github.com/KichiFinn/check-lerna-publish/compare/@KichiFinn/level2dependency@1.0.12...@KichiFinn/level2dependency@1.0.13) (2020-12-28)
 
 **Note:** Version bump only for package @KichiFinn/level2dependency
