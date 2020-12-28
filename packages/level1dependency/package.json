@@ -1,11 +1,11 @@
 {
   "name": "@KichiFinn/level1dependency",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "no",
   "type": "module",
   "main": "index.js",
   "dependencies": {
-    "@KichiFinn/level2dependency": "^1.0.16"
+    "@KichiFinn/level2dependency": "^1.0.17"
   },
   "repository": {
     "type": "git",
